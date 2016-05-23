@@ -1,0 +1,22 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: mschpprts05t03.csv,,,,,,,,,
+"Table 3. Percent of prisoners released in 30 states in 2005 who were arrested in another state following release, by number of prior out-of-state arrests",,,,,,,,,
+"Report title: Multistate Criminal History Patterns of Prisoners Released in 30 States, NCJ 248942",,,,,,,,,
+"Data Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,,,,,
+"Author:(s) Matthew R. Durose, Howard N. Snyder, Ph.D., and Alexia D. Cooper, Ph.D.",,,,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,,,
+Date of version: 9/24/2015,,,,,,,,,
+,,,,,,,,,
+"Table 3. Percent of prisoners released in 30 states in 2005 who were arrested in another state following release, by number of prior out-of-state arrests",,,,,,,,,
+,,,,"Following release, percent ",,,,,
+,,,,arrested in another state within—,,,,,
+Number of prior out-of-state arrests,,All released prisoners,,1 year,,3 years,,5 years,
+,All released prisoners,100,%,3.3,%,7.7,%,10.9,%
+0*,,75.3,,1.5,,4,,6.3,
+1,,8.9, **,4.7, **,11.6, **,16.1, **
+2 – 3,,6.8, **,8, **,18, **,24.1, **
+4 or more,,9.1, **,13.6, **,26.9, **,34.2, **
+Note: Prior out-of-state arrests include those that occurred before release in 2005 in another state. Prisoners were tracked for 5 years following release. Detail may not sum to total due to rounding. See appendix table 15 for standard errors.,,,,,,,,,
+*Comparison group. ,,,,,,,,,
+**Difference with comparison group is significant at the 95% confidence level.,,,,,,,,,
+"Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,,,,,

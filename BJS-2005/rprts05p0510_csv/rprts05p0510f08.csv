@@ -1,0 +1,77 @@
+Bureau of Justice Statistics,,,,,
+Filename: rprts05p0510f08,,,,,
+"Figure 8. Recidivism of prisoners released in 29 states in 2005, by time from release to first arrest that led to recidivating event",,,,,
+Report title: Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010,,,,,
+"Data source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection",,,,,
+"Authors: Matthew R. Durose, Alexia D. Cooper, Ph.D., and Howard N. Snyder, Ph.D",,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,
+Date of release: 04/22/14,,,,,
+,,,,,
+"Figure 8. Recidivism of prisoners released in 29 states in 2005, by time from release to first arrest that led to recidivating event",,,,,
+,,,,,
+Time to rearrest (in months),Adjudication,Conviction,Incarceration,Imprisonment,Return to prison
+0,0,0,0,0,0
+1,2.92,2.41,1.69,0.84,2.31
+2,5.24,4.39,3.22,1.61,4.93
+3,7.84,6.56,4.91,2.63,8.27
+4,10.48,8.81,6.62,3.56,11.47
+5,13.06,11.08,8.34,4.56,14.79
+6,15.21,12.96,9.75,5.36,17.64
+7,17.41,14.91,11.26,6.34,20.19
+8,19.49,16.78,12.66,7.11,22.45
+9,21.35,18.51,14,7.9,24.87
+10,23.05,20.03,15.18,8.62,26.78
+11,24.68,21.54,16.4,9.31,28.59
+12,26.26,22.96,17.53,10.01,30.41
+13,27.7,24.29,18.66,10.66,32.14
+14,29.12,25.59,19.73,11.36,33.58
+15,30.48,26.82,20.73,11.96,34.84
+16,31.9,28.11,21.85,12.69,36.1
+17,33.17,29.2,22.76,13.26,37.23
+18,34.52,30.44,23.78,13.87,38.35
+19,35.64,31.48,24.69,14.44,39.28
+20,36.69,32.41,25.47,14.9,40.09
+21,37.72,33.39,26.28,15.36,40.92
+22,38.76,34.37,27.11,15.84,41.69
+23,39.81,35.45,28.06,16.39,42.48
+24,40.75,36.33,28.78,16.87,43.28
+25,41.64,37.26,29.51,17.37,44.03
+26,42.52,38.12,30.18,17.83,44.6
+27,43.36,38.94,30.88,18.29,45.3
+28,44.25,39.84,31.58,18.71,45.88
+29,45.07,40.61,32.23,19.17,46.42
+30,45.79,41.35,32.88,19.58,46.94
+31,46.53,42.04,33.5,19.99,47.45
+32,47.28,42.75,34.11,20.44,47.94
+33,47.91,43.33,34.6,20.76,48.36
+34,48.52,43.95,35.1,21.14,48.78
+35,49.16,44.58,35.62,21.52,49.21
+36,49.81,45.19,36.17,21.98,49.66
+37,50.4,45.75,36.7,22.32,50.04
+38,51.01,46.35,37.24,22.69,50.37
+39,51.55,46.9,37.74,23.06,50.69
+40,52.11,47.44,38.2,23.36,50.96
+41,52.57,47.88,38.59,23.65,51.21
+42,53.09,48.39,38.99,23.9,51.49
+43,53.66,48.96,39.4,24.16,51.73
+44,54.18,49.45,39.85,24.4,51.94
+45,54.72,49.99,40.27,24.67,52.2
+46,55.19,50.47,40.63,24.93,52.42
+47,55.6,50.91,41.02,25.2,52.63
+48,55.92,51.26,41.33,25.46,52.88
+49,56.28,51.61,41.66,25.67,53.07
+50,56.66,51.97,41.98,25.94,53.3
+51,57.05,52.35,42.32,26.2,53.5
+52,57.46,52.74,42.64,26.44,53.71
+53,57.82,53.12,42.99,26.72,53.94
+54,58.17,53.48,43.33,26.97,54.1
+55,58.52,53.84,43.61,27.16,54.25
+56,58.87,54.18,43.9,27.4,54.43
+57,59.16,54.46,44.17,27.68,54.65
+58,59.44,54.72,44.4,27.83,54.79
+59,59.78,55.06,44.69,28.02,54.95
+60,60.03,55.35,44.93,28.18,55.11
+Note: Prisoners were tracked for 5 years following release in 30 states. Some states were excluded from the specific measures of recidivism. See Methodology. ,,,,,
+"a/Based on time from release to first arrest that led to recidivating event (i.e., adjudication, conviction, incarceration, or imprisonment) among inmates released in 29 states.  ",,,,,
+b/Based on time from release to first arrest that led to a prison sentence or first prison admission for a technical violation without a new sentence among inmates released in 23 states.,,,,,
+"Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,

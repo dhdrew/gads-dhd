@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,
+Filename: mschpprts05at14.csv,,,,,
+"Appendix table 14. Standard errors for table 2: Percent of prisoners released in 30 states in 2005 who had an out-of-state arrest prior to release, by demographic characteristics and most serious commitment offense",,,,,
+"Report title: Multistate Criminal History Patterns of Prisoners Released in 30 States, NCJ 248942",,,,,
+"Data Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,
+"Author:(s) Matthew R. Durose, Howard N. Snyder, Ph.D., and Alexia D. Cooper, Ph.D.",,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,
+Date of version: 9/24/2015,,,,,
+ ,,,,,
+"Appendix table 14. Standard errors for table 2: Percent of prisoners released in 30 states in 2005 who had an out-of-state arrest prior to release, by demographic characteristics and most serious commitment offense",,,,,
+,,Number of prior out-of-state arrests,,,
+Characteristic,,0,,1 or more,
+,All released prisoners,0.24,%,0.24,%
+Sex,,,,,
+,Male,0.26,%,0.26,%
+,Female,0.38,,0.38,
+Race/Hispanic origin,,,,,
+,White,0.39,%,0.39,%
+,Black/African American,0.35,,0.35,
+,Hispanic/Latino,0.6,,0.6,
+,Other,1.5,,1.5,
+Age at release,,,,,
+,24 or younger,0.38,%,0.38,%
+,25–29,0.46,,0.46,
+,30–34,0.59,,0.59,
+,35–39,0.64,,0.64,
+,40 or older,0.5,,0.5,
+Most serious commitment offense ,,,,,
+,Violent,0.49,%,0.49,%
+,Property,0.45,,0.45,
+,Drug,0.43,,0.43,
+,Public order,0.61,,0.61,
+"Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,

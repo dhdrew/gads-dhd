@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,,,
+Filename: mschpprts05f01.csv,,,,,
+"Figure 1. Distribution of the state-level percent of prisoners who were arrested in another state following release, among prisoners released in 30 states in 2005",,,,,
+"Report title: Multistate Criminal History Patterns of Prisoners Released in 30 States, NCJ 248942",,,,,
+"Data Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,
+"Author:(s) Matthew R. Durose, Howard N. Snyder, Ph.D., and Alexia D. Cooper, Ph.D.",,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,
+Date of version: 9/24/2015,,,,,
+,,,,,
+"Figure 1. Distribution of the state-level percent of prisoners who were arrested in another state following release, among prisoners released in 30 states in 2005",,,,,
+Time from release to first out-of-state,Percent arrested,,,,
+1 year,1.7,3.4,4.3,5.5,9.9
+3 years,4,8.2,9.8,12.4,21.2
+5 years,5.9,11.2,13.7,16.8,26.2
+Note: Prisoners were tracked for 5 years following release. See appendix table 5 for estimates and appendix table 12 for standard errors.,,,,,
+"Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection. ",,,,,

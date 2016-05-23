@@ -1,0 +1,39 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: mschpprts05t02.csv,,,,,,,
+"Table 2. Percent of prisoners released in 30 states in 2005 who had an out-of-state arrest prior to release, by demographic characteristics and most serious commitment offense",,,,,,,
+"Report title: Multistate Criminal History Patterns of Prisoners Released in 30 States, NCJ 248942",,,,,,,
+"Data Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,,,
+"Author:(s) Matthew R. Durose, Howard N. Snyder, Ph.D., and Alexia D. Cooper, Ph.D.",,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,
+Date of version: 9/24/2015,,,,,,,
+ ,,,,,,,
+"Table 2. Percent of prisoners released in 30 states in 2005 who had an out-of-state arrest prior to release, by demographic characteristics and most serious commitment offense",,,,,,,
+,,,,Number of prior out-of-state arrests,,,
+Characteristic,,Total,,0,,1 or more,
+,All released prisoners,100,%,75.3,%,24.7,%
+Sex,,,,,,,
+,Male*,100,%,74.9,%,25.1,%
+,Female,100,%,78.3, **,21.7, **
+Race/Hispanic origin,,,,,,,
+,"White/a,*",100,%,68.8,%,31.2,%
+,Black/African American/a,100,%,77.7, **,22.3, **
+,Hispanic/Latino,100,%,83.8, **,16.2, **
+,"Other/a,b",100,%,76.9, **,23.1, **
+Age at release,,,,,,,
+,24 or younger*,100,%,90,%,10,%
+,25–29,100,%,82.5, **,17.5, **
+,30–34,100,%,75.9, **,24.1, **
+,35–39,100,%,71.4, **,28.6, **
+,40 or older,100,%,64.2, **,35.8, **
+Most serious commitment offense ,,,,,,,
+,Violent*,100,%,77,%,23,%
+,Property,100,%,73, **,27, **
+,Drug,100,%,76.9,,23.1,
+,Public order/c,100,%,73.1,**,26.9, **
+"Note: Prior out-of-state arrests include those that occurred before release in 2005 in another state. Data on the prisoner’s sex and age at release were known for 100% of cases, and race and Hispanic origin for nearly 100%. See appendix table 14 for standard errors. ",,,,,,,
+*Comparison group. ,,,,,,,
+**Difference with comparison group is significant at the 95% confidence level.,,,,,,,
+a/Excludes persons of Hispanic or Latino origin.,,,,,,,
+"b/Includes American Indian or Alaska Natives; Asian, Native Hawaiian, or other Pacific Islanders; and persons of two or more races.",,,,,,,
+c/Includes 0.8% of cases in which the prisoners most serious offense was unspecified.,,,,,,,
+"Source: Bureau of Justice Statistics, Recidivism of State Prisoners Released in 2005 data collection.",,,,,,,
